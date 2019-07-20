@@ -2,7 +2,7 @@
 
 Another work in progress - a small scale randomly-generated tower defense prototype I made.
 
-So far features include enemies that are fairly good at pathfinding around structures you construct by using a modified A-Star Algorithm
+So far features include enemies that are fairly good at pathfinding by using a modified A-Star Algorithm and some very basic base-building and defenses
 
 ## Enemies:
 ![Screenshot](../master/Images/Enemies.png)
